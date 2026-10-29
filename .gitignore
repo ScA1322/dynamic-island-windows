@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+.env
+*.log
+
+# local tooling
+.claude/
+.idea/
+.vscode/
